@@ -1,0 +1,7 @@
+[{"Store Name ":"Portsmouth","Store Road":"Portsea Road","Store Road Number":"7"},
+{"Store Name ":"Gosport","Store Road":"Hampshire roads","Store Road Number":"6"},
+{"Store Name ":"Chichester","Store Road":"Hampshire roads","Store Road Number":"5"},
+{"Store Name ":"Havant","Store Road":"Hampshire roads","Store Road Number":"4"},
+{"Store Name ":"Waterlooville","Store Road":"Hampshire roads","Store Road Number":"3"},
+{"Store Name ":"Fareham","Store Road":"Hampshire roads","Store Road Number":"2"}]
+
